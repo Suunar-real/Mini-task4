@@ -1338,6 +1338,7 @@ Cc1c(C)c2c(c(C)c1O)CCC(C)(C(=O)O)O2,13100.0
 COc1ccc(C2SCC(=O)N2CCN2C(=O)CSC2c2ccc(OC)cc2)cc1,1120.0
 COc1ccc(Sc2c(C#N)[nH]c3cc(S(C)(=O)=O)ccc23)c(Cl)c1,330.0
 Cc1[nH]c2cc(S(C)(=O)=O)ccc2c1Sc1ccc(F)cc1,20.0
+Cc1[nH]c2cc(S(C)(=O)=O)ccc2c1Sc1ccc(F)cc1F,770.0
 COc1ccc(Sc2c(C)[nH]c3cc(S(C)(=O)=O)ccc23)cc1,470.0
 Cc1[nH]c2cc(S(C)(=O)=O)ccc2c1Sc1ccccn1,1780.0
 Cc1[nH]c2cc(S(C)(=O)=O)ccc2c1Cc1ccc(F)cc1,80.0
@@ -3197,6 +3198,7 @@ C[Si](C)(C)c1onc(-c2ccc(F)cc2)c1-c1ccc(S(N)(=O)=O)cc1,930.0
 CS(=O)(=O)c1ccc(-c2c(-c3ccc(F)cc3)noc2C=O)cc1,13777.0
 CS(=O)(=O)c1ccc(-c2c(-c3ccc(F)cc3)noc2Cl)cc1,351.0
 CS(=O)(=O)c1ccc(-c2c(-c3ccc(F)cc3)noc2C(F)(F)F)cc1,8145.0
+Cc1onc(-c2ccc(F)cc2)c1-c1ccc(S(N)(=O)=O)cc1,73.0
 CS(=O)(=O)c1ccc(-c2conc2-c2ccccc2)cc1,247.0
 CS(=O)(=O)c1ccc(-c2conc2-c2ccc(F)cc2)cc1,57.0
 NS(=O)(=O)c1ccc(-c2conc2-c2ccccc2)cc1,48.0
